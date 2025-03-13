@@ -1,5 +1,5 @@
 # Hello World!, I'm Niran, an Entrepreneur and a Developer 👋🏼:
-🛜 Currently working on my Startup(Project Video)<br> ▶ Building Gennsity Wonderofscience & more<br>👨🏼‍🎓 Studying Computer Application at DRBCCC Hindu College
+🛜 Currently working on my Startup(Project Video)<br> ▶ Building Gennsity, Wonderofscience & more<br>👨🏼‍🎓 Studying Computer Application at DRBCCC Hindu College
 
 
 # 💻 Tech Stack:
